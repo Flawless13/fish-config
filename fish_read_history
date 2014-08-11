@@ -1,0 +1,2 @@
+- cmd: function fish_title\necho -ne "\\033]0;$1\\007"\nend
+   when: 1406490548
